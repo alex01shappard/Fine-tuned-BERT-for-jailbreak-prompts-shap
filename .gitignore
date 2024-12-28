@@ -1,1 +1,4 @@
 my_bert_model/
+.lightning_studio/
+.triton/
+jailbreak_llms/
